@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa08_02broadcastreceiver
+package com.roynaldi19.dc3_08broadcastreceiver
 
 import org.junit.Test
 

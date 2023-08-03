@@ -1,8 +1,8 @@
-package com.roynaldi19.bfaa08_02broadcastreceiver
+package com.roynaldi19.dc3_08broadcastreceiver
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.roynaldi19.bfaa08_02broadcastreceiver.databinding.ActivitySmsReceiverBinding
+import com.roynaldi19.dc3_08broadcastreceiver.databinding.ActivitySmsReceiverBinding
 
 class SmsReceiverActivity : AppCompatActivity() {
 
